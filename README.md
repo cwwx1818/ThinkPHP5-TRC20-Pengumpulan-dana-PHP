@@ -1,5 +1,5 @@
 
-# 基于ThinkPHP5版本TRC20-资金归集解决方案
+# 基于ThinkPHP5版本TRC20-资金归集解决方案，可无缝升级TP6
 
 源码地址：[源码下载地址](https://www.kancloud.cn/bishengzhu/trc20trxusdt)  
 
