@@ -1,6 +1,10 @@
 
 # 基于ThinkPHP5版本TRC20-资金归集解决方案，可无缝升级TP6
 
+
+# 目前已经基于这套API开发出来了靓号采集系统以及资金归集系统，相关详情看当前项目的doc文件 ：[相关代码详细说明](   https://github.com/cwwx1818/tron-api-code-trc20-trx-trc10-PHP/blob/main/%E5%85%B3%E4%BA%8ETronapi%E7%9A%84%E8%AF%B4%E6%98%8E.docx)
+
+
 源码地址：[源码下载地址](https://www.kancloud.cn/bishengzhu/trc20trxusdt)  
 
 看云官方网站的文档作者是我：通过QQ找到本人购买源码可以八折优惠，源码会定期优化升级，下面是优惠后价格
