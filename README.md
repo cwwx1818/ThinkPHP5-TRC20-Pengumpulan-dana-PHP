@@ -1,8 +1,9 @@
 
-# 基于ThinkPHP5版本TRC20-资金归集解决方案，可无缝升级TP6
+# 基于ThinkPHP5版本TRC20-资金归集解决方案，当前是解决方案，完整的归集系统请移步这里 ： https://tronapi.gitbook.io/collection/
 
 
-# 目前已经基于这套API开发出来了靓号采集系统以及资金归集系统，相关详情看当前项目的doc文件 ：[相关代码详细说明](   https://github.com/cwwx1818/tron-api-code-trc20-trx-trc10-PHP/blob/main/%E5%85%B3%E4%BA%8ETronapi%E7%9A%84%E8%AF%B4%E6%98%8E.docx)
+# 目前已经基于这套API开发出来了靓号采集系统以及资金归集系统：[相关代码详细说明](https://tronapi.gitbook.io/trx/)
+
 
 
 源码地址：[源码下载地址](https://www.kancloud.cn/bishengzhu/trc20trxusdt)  
