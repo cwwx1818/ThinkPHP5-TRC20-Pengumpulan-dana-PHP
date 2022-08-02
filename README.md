@@ -8,18 +8,18 @@
 
 源码地址：[源码下载地址](https://www.kancloud.cn/bishengzhu/trc20trxusdt)  
 
-看云官方网站的文档作者是我：通过QQ找到本人购买源码可以八折优惠，源码会定期优化升级，下面是优惠后价格
+### 源码购买请联系 纸飞机(Telegram):@laowu2021 ，解决方案售价 150U，包协助部署，源码无加密。
 
-### 源码购买请联系 纸飞机(Telegram):@laowu2021 ，售价 150U，包协助部署，源码无加密
+## 完整系统售价2000U，文档明细：https://tronapi.gitbook.io/collection/
 
 
-![1650959381(1)](https://user-images.githubusercontent.com/104345258/165249512-d1dba6bd-9b40-4e4c-ae79-52cacaa1d1e2.png)
+address：TYPrKF2sevXuE86Xo3Y2mhFnjseiUcybny
+![image](https://user-images.githubusercontent.com/104345258/182269896-6b9ed4d1-1d69-48b8-a8f1-9a5ae3bd27ab.png)
 
 
 基于ThinkPHP5版本TRC20-资金归集解决方案，当你有很多钱包（已知地址跟私钥）有USDT，你想把它们全部归集到一个指定的钱包，你就需要用到资金归集功能，自己开发，永远比第三方可靠，本文档仅在SDK上支持，源码无加密，可放心使用。
 
 
-# 基于ThinkPHP5版本TRC20-资金归集解决方案 2022年7月1日09:35:19
 
 
 
