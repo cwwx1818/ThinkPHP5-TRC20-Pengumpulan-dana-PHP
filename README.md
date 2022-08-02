@@ -12,9 +12,9 @@
 
 ## 完整系统售价2000U，文档明细：https://tronapi.gitbook.io/collection/
 
-
-address：TYPrKF2sevXuE86Xo3Y2mhFnjseiUcybny
-![image](https://user-images.githubusercontent.com/104345258/182269896-6b9ed4d1-1d69-48b8-a8f1-9a5ae3bd27ab.png)
+### 收款方式
+- address：TYPrKF2sevXuE86Xo3Y2mhFnjseiUcybny
+- ![image](https://user-images.githubusercontent.com/104345258/182269896-6b9ed4d1-1d69-48b8-a8f1-9a5ae3bd27ab.png)
 
 
 基于ThinkPHP5版本TRC20-资金归集解决方案，当你有很多钱包（已知地址跟私钥）有USDT，你想把它们全部归集到一个指定的钱包，你就需要用到资金归集功能，自己开发，永远比第三方可靠，本文档仅在SDK上支持，源码无加密，可放心使用。
